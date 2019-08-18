@@ -1,0 +1,7 @@
+{
+  "appId": "io.ionic.csdemocouchbaselite",
+  "appName": "Couchbase Lite Demo",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}

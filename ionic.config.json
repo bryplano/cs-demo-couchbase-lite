@@ -1,7 +1,8 @@
 {
   "name": "cs-demo-couchbase-lite",
   "integrations": {
-    "cordova": {}
+    "cordova": {},
+    "capacitor": {}
   },
   "type": "angular"
 }

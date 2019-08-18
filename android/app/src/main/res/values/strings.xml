@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Couchbase Lite Demo</string>
+    <string name="title_activity_main">Couchbase Lite Demo</string>
+    <string name="package_name">io.ionic.csdemocouchbaselite</string>
+    <string name="fileprovider_authority">io.ionic.csdemocouchbaselite.fileprovider</string>
+    <string name="custom_url_scheme">io.ionic.csdemocouchbaselite</string>
+</resources>

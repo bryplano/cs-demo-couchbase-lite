@@ -89,8 +89,8 @@ export class TeaCategoriesService {
     return new Promise(resolve => {
       IonicCBL.onReady(async () => {
         const config = new DatabaseConfiguration();
-        config.setEncryptionKey('8e31f8f6-60bd-482a-9c70-69855dd02c38');
-        this.database = new Database('teacatgories', config);
+        config.setEncryptionKey('64f347c6-fb8c-4ab2-8a47-8eea3ec7e71d');
+        this.database = new Database('teacatcap', config);
         this.database.setEngine(
           new CordovaEngine({
             allResultsChunkSize: 9999
